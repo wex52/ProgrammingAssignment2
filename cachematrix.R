@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This pair of functions allows the inverse of a matrix to be cached,
+## avoiding expensive recalculation if requested again.
 
 ## The makeCacheMatrix function builds a set of four functions and
 ## returns the functions within a list. Each function has its own environment.
